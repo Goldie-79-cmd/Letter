@@ -1,0 +1,20 @@
+body {
+  background: #f6f1e9;
+  font-family: serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.letter {
+  background: white;
+  padding: 30px;
+  max-width: 300px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+.line {
+  opacity: 0;
+  margin-bottom: 16px;
+}
